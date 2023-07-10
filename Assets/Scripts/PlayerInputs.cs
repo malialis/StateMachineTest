@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,11 +7,11 @@ using Random = UnityEngine.Random;
 
 public class PlayerInputs : MonoBehaviour
 {
-    //[SerializeField] private Animator _anim;
+    [SerializeField] private Animator _anim;
 
     [SerializeField] private float moveX = 0.0f;
     [SerializeField] private float moveY = 0.0f;
-    [SerializeField] private bool isMoving = false;
+    //[SerializeField] private bool isMoving = false;
 
 
     [SerializeField] private float _minImpactForce = 20;
@@ -21,7 +22,6 @@ public class PlayerInputs : MonoBehaviour
     [SerializeField] private float _attackAnimTime = 0.2f;
 
     private IPlayerController _player;
-    private Animator _anim;
     private SpriteRenderer _renderer;
 
     private bool _grounded;
@@ -32,9 +32,10 @@ public class PlayerInputs : MonoBehaviour
 
     private void Awake()
     {
+
         if (!TryGetComponent(out IPlayerController player))
         {
-            Destroy(this);
+            //Destroy(this);
             return;
         }
 
@@ -48,7 +49,8 @@ public class PlayerInputs : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        _anim.CrossFade("idle", 0, 0);
+        _anim.CrossFade("isMoving", 0, 0);
+        Debug.Log("I am moving");
 
         _player.Jumped += () => {
             _jumpTriggered = true;
@@ -66,7 +68,6 @@ public class PlayerInputs : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        UpdateMotion();
         if (_player.Input.x != 0) _renderer.flipX = _player.Input.x < 0;
 
         var state = GetState();
@@ -104,11 +105,11 @@ public class PlayerInputs : MonoBehaviour
         moveX = Input.GetAxis("Horizontal");
         moveY = Input.GetAxis("Vertical");
 
-        isMoving = !Mathf.Approximately(moveX, 0f);
+        //isMoving = !Mathf.Approximately(moveX, 0f);
 
 
         _anim.SetFloat("moveX", moveX);
-        _anim.SetBool("isMoving", isMoving);
+        //_anim.SetBool("isMoving", isMoving);
 
 
     }
@@ -120,7 +121,7 @@ public class PlayerInputs : MonoBehaviour
     private int _currentState;
 
     private static readonly int Idle = Animator.StringToHash("idle");
-    private static readonly int IsMoving = Animator.StringToHash("isMoving");
+    private static readonly int IsMoving = Animator.StringToHash("run");
     private static readonly int Jump = Animator.StringToHash("jumping");
     private static readonly int Fall = Animator.StringToHash("falling");
     private static readonly int Attack = Animator.StringToHash("attack");
@@ -130,6 +131,7 @@ public class PlayerInputs : MonoBehaviour
     #endregion
 
 }
+
 
 public interface IPlayerController
 {

@@ -1,0 +1,3887 @@
+fileFormatVersion: 2
+guid: 8f9eafd2be44a41e79391e1149370c2c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Metalhead_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1225
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f770baa5eb24140a6ccf287d005e35
+      internalID: 2023450334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1226
+        width: 57
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e159f2a68fa415685eca1e398903d7
+      internalID: 589357780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1226
+        width: 63
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb66f78476ca40e29528429e6a1c482
+      internalID: 1037005059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1226
+        width: 56
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56458378444747349cfee84530afe54
+      internalID: -1299792096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1227
+        width: 56
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dd92a1733624d87b80d2d0a62fae56
+      internalID: -655834053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1228
+        width: 57
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f8644df0ea94cc8897539093430451
+      internalID: -1442695145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1229
+        width: 57
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e603cdd7aad42a8bb20b35238b4622
+      internalID: -819226842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1229
+        width: 57
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cdb83168b8b4f0e86d7c3ef4723e06
+      internalID: 831964334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_8
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1186
+        width: 64
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf80916ad1c714e5a8d4ec15182740e1
+      internalID: -1280801551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1154
+        width: 49
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3b24dfd9e4d408dbb64d65dc2cf976
+      internalID: 1547729714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1153
+        width: 38
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad1a0df677c45d28c309ec7e1ad7af
+      internalID: 836347449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1152
+        width: 33
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6a289ebf6b74dae9fefc63c1636d8a
+      internalID: -126516645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1151
+        width: 41
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d5862d94d584d9289bf040d5399d61
+      internalID: -2136801985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1152
+        width: 57
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035873986d7624910998f331c60c68d0
+      internalID: -835080822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1152
+        width: 57
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecd9ead8f6e145ec88cea145e848596
+      internalID: 1651221522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1151
+        width: 41
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb5d9f3fc344f87be9983a05ddd1bb
+      internalID: 1501158594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1150
+        width: 35
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56807ad0135e4a579cb7e73ab481d01
+      internalID: -2004860000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1150
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d2550f68804587aa550dac2996b28
+      internalID: 1493505190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1150
+        width: 49
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a52a1f30cca4db59e391c22c935191
+      internalID: 502127487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1175
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b268d2746c641d88b72b24b374b8b4
+      internalID: -934667155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1173
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c75e1bd2185846d5b3d56fc01cefdbc
+      internalID: 770137749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_21
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1173
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cec2a3c96634d5b8ab7f4741cd9951
+      internalID: -215820481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_22
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1175
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd29a7c4c56c478790795caa39ea93e
+      internalID: 71263742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_23
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1175
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ab6d228846e45e8b35984c652b01d0
+      internalID: -689540303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_24
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1175
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb57bde2a9337456198491621291744d
+      internalID: 134676824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_25
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1173
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeec79fc8ac14e7dad4dd527f69552e
+      internalID: 623844161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_26
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1175
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b48da513694a3ba73128b7f0ae0cc
+      internalID: 550855192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_27
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1175
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335bf374e611348eab64ef9d44932b88
+      internalID: -175911081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_28
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1175
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb15c720938f40618d9c6ac3a0bc399
+      internalID: -1404439917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_29
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1175
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b80ef64329dd46229f363582eaa7ca2
+      internalID: -1138859005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_30
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1175
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c739eb48b4e3547d7ae986eceec93f32
+      internalID: -2090651230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_31
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1173
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0b82323cd174d588b0195240d19bbb
+      internalID: 701183528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_32
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1175
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3786cfcdcc941d8ad1049fcf9c4196
+      internalID: -335377181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_33
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1175
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca9cabee01a64c8985328ba86e00648
+      internalID: 2071977939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_34
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1175
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83714ec6560e64a66829734a7d1ac8dc
+      internalID: 814929732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1081
+        width: 57
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded55a59e1e89478394ef2c434c8ffbd
+      internalID: 1133552923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1080
+        width: 55
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440069f2e83d34099bdd19a6eaeb6d6a
+      internalID: 1180411809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_37
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1080
+        width: 64
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffcf6e7668394416959bdf56769ca13
+      internalID: -1013565329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1079
+        width: 62
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a60066b4295443c8d14ab94a7dadc0
+      internalID: -1298219081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1080
+        width: 61
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5255f841f20ea4a318b541216edcf5a5
+      internalID: -2082633619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1009
+        width: 57
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895723493b7264c3d88a269fd9f76771
+      internalID: 656842247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1009
+        width: 56
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b043138925d4dce982ee57434af35e
+      internalID: 1308040493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_42
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1010
+        width: 55
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3f3d10abfde4714a9a42e50bbbdf82
+      internalID: -751552175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_43
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1012
+        width: 60
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c27934635b54bdd8b5ac2a40301963
+      internalID: -1509188339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_44
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1012
+        width: 59
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bff24e7bf8c44a8288998178187ef1f
+      internalID: -556916967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 926
+        width: 57
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0098eeccbfc4e119a15f90a2c066c5
+      internalID: -906092151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 926
+        width: 56
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7a215d7295842e1a62b3df1c308b78
+      internalID: -2116071579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 927
+        width: 56
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f8322057cf4016a10ff5db59fa2d9
+      internalID: 89612671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 927
+        width: 56
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ccbd3bb4f614f1c8b268fac8948fbc
+      internalID: -813631347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 927
+        width: 63
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9346efd4c69514b0c8a95a7b19633eac
+      internalID: 1193883956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 927
+        width: 81
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8726cf1d8d2dd4cf7911a2a4a644f101
+      internalID: 1760317569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 927
+        width: 81
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30740f5367ad54bb8a0247a31cf7cb10
+      internalID: 1626949232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_52
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 928
+        width: 63
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a47ff160b61248d4ba92464eefc5306
+      internalID: 1412097956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_53
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 929
+        width: 56
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75676e9fdb2484c298d87a4aae0cac35
+      internalID: 243536769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_54
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 930
+        width: 56
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbc0faf014c044cc998a6282873a76b
+      internalID: 1189537516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 857
+        width: 57
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d0c06b6931e4d5faf89e59921c7738
+      internalID: -1459099464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 858
+        width: 64
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06860ab80c9e648f299462b97b27e940
+      internalID: 776965693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 859
+        width: 88
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4638f43a78ae0409eaea4c8677836682
+      internalID: -1648512142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_58
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 858
+        width: 104
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05cc56704c004120a18c4f3c66f92ff
+      internalID: 178779230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_59
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 858
+        width: 120
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161bf9972a2e240b380b6a14affd2441
+      internalID: 1165452154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_60
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 858
+        width: 104
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8096833ef9a9144d98af6a480434582f
+      internalID: -219087142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_61
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 857
+        width: 88
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dca018c1da449ac9190956e4b1e9ed
+      internalID: 54011290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_62
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 858
+        width: 64
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01efb0dcd532a4fd2963449b54af882f
+      internalID: 1418315322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 790
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1b65f77223443e8abe4b27991ee4a
+      internalID: 363034845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 791
+        width: 44
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec8ae059a9264f6a8b4fb0085c4b8fd
+      internalID: -697165497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_65
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 792
+        width: 43
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c56904a0e154c72b1b1f884616a2e5
+      internalID: 1072891976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_66
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 793
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60b96b4e50b9414aad6f83a04cf3e65
+      internalID: -1946538197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 715
+        width: 58
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca20d9380af847649a203844590cf75
+      internalID: -1780302070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 715
+        width: 47
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446abf73b251a45b3a435264963807cf
+      internalID: 754842201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_69
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 715
+        width: 78
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847f1fe2f523343b79600fe3af1d28df
+      internalID: -1959080170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 648
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad8fecb6edea42f2a8a43f0ad6cfff3
+      internalID: -326164053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 648
+        width: 44
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6ade9df70504ab38373f121a7ecfd8
+      internalID: 1362982715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_72
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 647
+        width: 43
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded5571b5216457c89a75a13a5cc491
+      internalID: -1415131115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 648
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50850a71ac7b4dfb80634935f3b38a4
+      internalID: 107256290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_74
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 647
+        width: 73
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87ab123f4961480baeb41b7745181c0
+      internalID: -1022099983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_75
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 647
+        width: 91
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22362ddd7fbbd413dbb061cbeb3bf3b1
+      internalID: 1490954106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_76
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 646
+        width: 116
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee57db2a848047c9bdc8bc521b2150f
+      internalID: 575583509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_77
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 648
+        width: 91
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e0ec78e7af04b72a4aad8ff1318a49
+      internalID: 1909963464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_78
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 647
+        width: 73
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecbd4854ba99453bb74dfd24373a97c
+      internalID: -1130796438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_79
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 649
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5446d5deffe84d50a91d0da79378a29
+      internalID: -1352908651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 564
+        width: 47
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36dba1199a9449049bfe1b6accbd35b
+      internalID: -1314446348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 562
+        width: 47
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c357e6facaf84185b782c5868a1ba3e
+      internalID: 1676679629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 560
+        width: 47
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e977990da934cbeb150f533b88b0e9
+      internalID: -145601689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_83
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 557
+        width: 47
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd6df0bfff5f4f7a9ac5ee9496b5c57
+      internalID: 361290354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_84
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 554
+        width: 47
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4e61455c6cc4014918702881322678
+      internalID: 1434420299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_85
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 567
+        width: 47
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c3ffd7a23d042e186b3ee84a0fccf7
+      internalID: 1195875137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_86
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 569
+        width: 78
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a1d060588a4e1e85cc9203cf5f089
+      internalID: 830620882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_87
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 569
+        width: 78
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb976755eda44629d04d1083f15ea5
+      internalID: 1865415029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_88
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 568
+        width: 78
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0b18c7ed020438b9f2bf20f0bc15af
+      internalID: -575577937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_89
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 568
+        width: 62
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61c804018c5d4c76b2750c532b95ee5
+      internalID: 347948261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_90
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 570
+        width: 62
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd697fdf912894eb083c0745d816e35a
+      internalID: -1494654889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_91
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 571
+        width: 55
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7398ae0d977b427e9514e52f60f00d4
+      internalID: -1261866233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_92
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 580
+        width: 30
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7d8f6a03e1b4ddf854f2a2fedcea4b
+      internalID: -198253281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_93
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 554
+        width: 50
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d38bccce2da4caa9ed7d35e466e6d8
+      internalID: 1369823950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_94
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 549
+        width: 54
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ab381c28f14b3ba1a3d226741e1cb
+      internalID: 1873296716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_95
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 565
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc52bdb128ed148cfa6a13c7acb4e6d4
+      internalID: -634572092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_96
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 558
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050832031b1e147c9bca0b3fb4bd7ca4
+      internalID: 1253129807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_97
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 550
+        width: 39
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161cb68acf167445cb757deabb8c9ab8
+      internalID: -1532782634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_98
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 560
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c109efb312404774b78df6de109bd53
+      internalID: -454727156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_99
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 547
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5cfebb1d8b74803a6a754bbd99b75d
+      internalID: -2069907670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 452
+        width: 479
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22803249edae14be1899238d63fce414
+      internalID: 297347111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_101
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 469
+        width: 57
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b6623f6fb7647248425a687e0134ad
+      internalID: 2146497621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_102
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 469
+        width: 57
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf1283801a254727b4bb76877b7aa23
+      internalID: -146461571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_103
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 471
+        width: 57
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062bb774c8d844d31b9d5294f73daf98
+      internalID: -1387590762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_104
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 472
+        width: 57
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568c2828374294e6cbebb1997243bd5c
+      internalID: -1337510599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_105
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 474
+        width: 59
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec65dec50f6345cd8cd7fcfb04230f8
+      internalID: 318571651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 475
+        width: 67
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182a19212b48244d6b95538a932750b7
+      internalID: -1637399688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_107
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 477
+        width: 90
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ca072705c044d4eb5a020cd9289e35
+      internalID: 490362951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_108
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 371
+        width: 62
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6026fc397bbe24ee183932f074062a7e
+      internalID: 949543699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_109
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 371
+        width: 67
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57493517072124d5caf4968e7b386f08
+      internalID: -1239341670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_110
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 431
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36d19e69044d4eedabb83e7382c9cdb
+      internalID: 901951312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 430
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce159f6780fe434ca5be548533a6c94
+      internalID: -957008862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_112
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 370
+        width: 62
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef54f1edc8c6423c956134cc9bb3825
+      internalID: -964542503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_113
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 371
+        width: 64
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800f93128744e4ad09baaa0112b05b9b
+      internalID: -255407775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_114
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 308
+        width: 70
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc577fcb386c409194a2bf89da1d44d
+      internalID: 1850806266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_115
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 357
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d97143aede8c4e4889ba5ac7e16aaa7
+      internalID: 1870211752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_116
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 305
+        width: 70
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eaaac1257ea4b9c9a0b1b0291d1f4c
+      internalID: -1385680531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_117
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 305
+        width: 70
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede129c74f9444bd4843e6b318a635d8
+      internalID: 486572471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_118
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 307
+        width: 70
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9473bfb15ccd40d4b5feb8a9de59200
+      internalID: -383172208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_119
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 79
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f8f2a7afc054eb8ab569cd22372835
+      internalID: -682950527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_120
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 226
+        width: 79
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cad9cf2d0c849b089e148565fbe311
+      internalID: 822312579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_121
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 228
+        width: 79
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e292b19a247749f5abe2f771135baef
+      internalID: -1538092407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_122
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 225
+        width: 79
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472c19684820a4ed8b0fe6f8aea85926
+      internalID: 2099644818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_123
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 206
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbb1447262b0474eb6f858da34012db
+      internalID: 1281116797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_124
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 210
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f70541c71b64dd998022bd1b83d9a1
+      internalID: -1073804233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_125
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 150
+        width: 62
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f24691a38094cd7986ef211d9cde9c
+      internalID: -1902158714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_126
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 149
+        width: 62
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f657773a867944f894cfeffacc7a050
+      internalID: -2142396057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_127
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 150
+        width: 62
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5e4aafba3574144b7ba16418dcb128
+      internalID: -859340277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_128
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 150
+        width: 62
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ece89f933f141adbb77074b6755a32
+      internalID: 104369125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_129
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 143
+        width: 61
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9770950462d624a81946c0420a51221a
+      internalID: 420849054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_130
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 206
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc95a1e564f94b1a836ee9b2d819014
+      internalID: 590074416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_131
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 144
+        width: 61
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e1ac8952f664f04b1f9833b8f3f4d1
+      internalID: 1630235053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_132
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 142
+        width: 61
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f644b9f5eb9fa42bfaf4e5e3dd472328
+      internalID: -2072583677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_133
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 61
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5b2db75045f45f0b2c0e194740676e
+      internalID: 1906754093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_134
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 147
+        width: 63
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda0e185100d34885a464250896b5527
+      internalID: -305806399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_135
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 8
+        width: 125
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472abf17c9c6048f69ebf1e80297e1de
+      internalID: -2134640618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_136
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dcaf8c4556146c0ba62c14c0fd6d3d
+      internalID: -1898871718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_137
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 16
+        width: 124
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6093dc0e2fa404868bb85efef1e1feb8
+      internalID: 160400059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_138
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 102
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1256017e243584a4a966de19aabd67a8
+      internalID: -577744817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_139
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 111
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287f6a5acdd0e4c5585d9f5e3fb895f2
+      internalID: 437546748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_140
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 112
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4082dd34b009a49a8ad625059cfabfc7
+      internalID: 1010828310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_141
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 112
+        width: 44
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eda1a6afe88b4e9ba734d5dd5ef5604
+      internalID: 1683232371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_142
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 112
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159bc3f911be34e029a3cffb035fc43f
+      internalID: 216872198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_143
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 111
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45666078214e34668b2901e44dc4a3a1
+      internalID: 759549818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_144
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 102
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8232bee07d8b4f0d9b09df636fcab5a
+      internalID: -1903271404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_145
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 38
+        width: 57
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59111ecc1b9c4708a3a4bc5aef8a4e5
+      internalID: -854234990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_146
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 12
+        width: 97
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff67ad2a5fb046ac8c6b1dfb7d0b663
+      internalID: 1057818841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_147
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 18
+        width: 101
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13553301be6042fe8367948014217a4
+      internalID: -1238147483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_148
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 87
+        width: 15
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2274b16d74b74909a50a70e0adc45e1
+      internalID: -362712825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_149
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 87
+        width: 15
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793696ec973c242d6bd55797ccf2f94d
+      internalID: 1431214624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_150
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 42
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a6ab183e7d44199b56c700b8e4be94
+      internalID: 804570158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_151
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 77
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3119f509bc94edfa270c398d870b3a
+      internalID: 821715697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_152
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 77
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506a0dd8370ac4bf08524de8531603b9
+      internalID: 1891923767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_153
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 64
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e8199d2c3504bb4a018a09a655e80b
+      internalID: 114714245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_154
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 64
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6635f0e733891404694fd17ccc9f62fe
+      internalID: 326197487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_155
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 56
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dabd2a62b944aaeb0260ed810ab22d
+      internalID: -1442626801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_156
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 56
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1098ce99e7f4f91a83a34ab4a8ea8a
+      internalID: -1512314349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_157
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 45
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23127ab7b6a65472da43a1a0bef1fa18
+      internalID: -2026666837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_158
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 33
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c966c7d04e643bb8be860a7b092485
+      internalID: 1062295251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_159
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 29
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f984fe9814514a85912accaa45d839f
+      internalID: -1980874827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_160
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 45
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab8407ce07974c569b72edfa9d2f426
+      internalID: 1846043823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_161
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 12
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30a5f0d001b241468c28a36fb5eb7f3
+      internalID: -1664365854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_162
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 8
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd748ec7ef95141458199583dc7d6e6b
+      internalID: -690503675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_163
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 27
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab0547efbba44c2191aea75dc8f5455
+      internalID: -345150536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_164
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 8
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83a78a48645c422bac72d31be07e2a2
+      internalID: -260118434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_165
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 27
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d5db138097f45a5b297c98c44500d3
+      internalID: -993071656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_166
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 12
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d8d53f7689a4fdea51565bb1a7019c
+      internalID: 2099093553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_167
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 7
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdedf3d9b4ce45d68073ef171135fc8
+      internalID: 806800855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_168
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 10
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0166ba0e660ef4de78cc3ff15070fb7d
+      internalID: -835545632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_169
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 8
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144ba92f1e576478a8e3cc1c5b886e4d
+      internalID: 480143755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Metalhead_88: -575577937
+      Metalhead_156: -1512314349
+      Metalhead_103: -1387590762
+      Metalhead_133: 1906754093
+      Metalhead_63: 363034845
+      Metalhead_100: 297347111
+      Metalhead_109: -1239341670
+      Metalhead_165: -993071656
+      Metalhead_6: -819226842
+      Metalhead_55: -1459099464
+      Metalhead_149: 1431214624
+      Metalhead_128: 104369125
+      Metalhead_87: 1865415029
+      Metalhead_43: -1509188339
+      Metalhead_152: 1891923767
+      Metalhead_124: -1073804233
+      Metalhead_37: -1013565329
+      Metalhead_60: -219087142
+      Metalhead_153: 114714245
+      Metalhead_11: -126516645
+      Metalhead_57: -1648512142
+      Metalhead_65: 1072891976
+      Metalhead_97: -1532782634
+      Metalhead_118: -383172208
+      Metalhead_38: -1298219081
+      Metalhead_86: 830620882
+      Metalhead_61: 54011290
+      Metalhead_102: -146461571
+      Metalhead_20: 770137749
+      Metalhead_50: 1760317569
+      Metalhead_40: 656842247
+      Metalhead_56: 776965693
+      Metalhead_17: 1493505190
+      Metalhead_106: -1637399688
+      Metalhead_31: 701183528
+      Metalhead_5: -1442695145
+      Metalhead_105: 318571651
+      Metalhead_104: -1337510599
+      Metalhead_101: 2146497621
+      Metalhead_123: 1281116797
+      Metalhead_35: 1133552923
+      Metalhead_13: -835080822
+      Metalhead_2: 1037005059
+      Metalhead_121: -1538092407
+      Metalhead_62: 1418315322
+      Metalhead_10: 836347449
+      Metalhead_51: 1626949232
+      Metalhead_91: -1261866233
+      Metalhead_33: 2071977939
+      Metalhead_85: 1195875137
+      Metalhead_15: 1501158594
+      Metalhead_92: -198253281
+      Metalhead_148: -362712825
+      Metalhead_28: -1404439917
+      Metalhead_94: 1873296716
+      Metalhead_30: -2090651230
+      Metalhead_74: -1022099983
+      Metalhead_25: 623844161
+      Metalhead_162: -690503675
+      Metalhead_161: -1664365854
+      Metalhead_111: -957008862
+      Metalhead_54: 1189537516
+      Metalhead_12: -2136801985
+      Metalhead_167: 806800855
+      Metalhead_9: 1547729714
+      Metalhead_46: -2116071579
+      Metalhead_22: 71263742
+      Metalhead_79: -1352908651
+      Metalhead_39: -2082633619
+      Metalhead_42: -751552175
+      Metalhead_119: -682950527
+      Metalhead_23: -689540303
+      Metalhead_144: -1903271404
+      Metalhead_90: -1494654889
+      Metalhead_95: -634572092
+      Metalhead_72: -1415131115
+      Metalhead_98: -454727156
+      Metalhead_29: -1138859005
+      Metalhead_45: -906092151
+      Metalhead_146: 1057818841
+      Metalhead_3: -1299792096
+      Metalhead_52: 1412097956
+      Metalhead_147: -1238147483
+      Metalhead_127: -859340277
+      Metalhead_1: 589357780
+      Metalhead_71: 1362982715
+      Metalhead_83: 361290354
+      Metalhead_155: -1442626801
+      Metalhead_110: 901951312
+      Metalhead_136: -1898871718
+      Metalhead_115: 1870211752
+      Metalhead_78: -1130796438
+      Metalhead_168: -835545632
+      Metalhead_131: 1630235053
+      Metalhead_126: -2142396057
+      Metalhead_150: 804570158
+      Metalhead_117: 486572471
+      Metalhead_18: 502127487
+      Metalhead_132: -2072583677
+      Metalhead_84: 1434420299
+      Metalhead_49: 1193883956
+      Metalhead_34: 814929732
+      Metalhead_141: 1683232371
+      Metalhead_160: 1846043823
+      Metalhead_120: 822312579
+      Metalhead_99: -2069907670
+      Metalhead_140: 1010828310
+      Metalhead_113: -255407775
+      Metalhead_21: -215820481
+      Metalhead_24: 134676824
+      Metalhead_66: -1946538197
+      Metalhead_8: -1280801551
+      Metalhead_139: 437546748
+      Metalhead_114: 1850806266
+      Metalhead_14: 1651221522
+      Metalhead_47: 89612671
+      Metalhead_70: -326164053
+      Metalhead_134: -305806399
+      Metalhead_77: 1909963464
+      Metalhead_166: 2099093553
+      Metalhead_142: 216872198
+      Metalhead_122: 2099644818
+      Metalhead_48: -813631347
+      Metalhead_157: -2026666837
+      Metalhead_76: 575583509
+      Metalhead_44: -556916967
+      Metalhead_67: -1780302070
+      Metalhead_58: 178779230
+      Metalhead_0: 2023450334
+      Metalhead_26: 550855192
+      Metalhead_96: 1253129807
+      Metalhead_145: -854234990
+      Metalhead_80: -1314446348
+      Metalhead_143: 759549818
+      Metalhead_164: -260118434
+      Metalhead_137: 160400059
+      Metalhead_75: 1490954106
+      Metalhead_32: -335377181
+      Metalhead_41: 1308040493
+      Metalhead_116: -1385680531
+      Metalhead_89: 347948261
+      Metalhead_169: 480143755
+      Metalhead_138: -577744817
+      Metalhead_163: -345150536
+      Metalhead_73: 107256290
+      Metalhead_82: -145601689
+      Metalhead_159: -1980874827
+      Metalhead_129: 420849054
+      Metalhead_64: -697165497
+      Metalhead_135: -2134640618
+      Metalhead_16: -2004860000
+      Metalhead_53: 243536769
+      Metalhead_59: 1165452154
+      Metalhead_69: -1959080170
+      Metalhead_68: 754842201
+      Metalhead_107: 490362951
+      Metalhead_93: 1369823950
+      Metalhead_81: 1676679629
+      Metalhead_19: -934667155
+      Metalhead_7: 831964334
+      Metalhead_36: 1180411809
+      Metalhead_108: 949543699
+      Metalhead_158: 1062295251
+      Metalhead_125: -1902158714
+      Metalhead_130: 590074416
+      Metalhead_154: 326197487
+      Metalhead_112: -964542503
+      Metalhead_27: -175911081
+      Metalhead_4: -655834053
+      Metalhead_151: 821715697
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
