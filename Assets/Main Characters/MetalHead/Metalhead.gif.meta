@@ -2233,12 +2233,12 @@ TextureImporter:
       name: Metalhead_100
       rect:
         serializedVersion: 2
-        x: 3
-        y: 452
-        width: 479
-        height: 85
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2
+        y: 451
+        width: 39
+        height: 5
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3699,6 +3699,111 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Metalhead_170
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 451
+        width: 50
+        height: 5
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f46f36d243b4c79ae52b40b05c370a
+      internalID: 938893857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_171
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 452
+        width: 70
+        height: 4
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89cf26b57aa74b1ebadffcaa54d10b8
+      internalID: 571153114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_172
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 452
+        width: 120
+        height: 4
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b0cc134bfaf489fb6934751becd2f5
+      internalID: -1572203548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_173
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 451
+        width: 97
+        height: 4
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f471c339f5b9246b89dac5f89dd1852a
+      internalID: -1030264579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalhead_174
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 451
+        width: 81
+        height: 5
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e584b0f94d0f4475b607a45bddbfa51
+      internalID: 2014465084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -3710,175 +3815,180 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Metalhead_88: -575577937
       Metalhead_156: -1512314349
-      Metalhead_103: -1387590762
-      Metalhead_133: 1906754093
       Metalhead_63: 363034845
-      Metalhead_100: 297347111
       Metalhead_109: -1239341670
-      Metalhead_165: -993071656
-      Metalhead_6: -819226842
-      Metalhead_55: -1459099464
       Metalhead_149: 1431214624
+      Metalhead_55: -1459099464
       Metalhead_128: 104369125
-      Metalhead_87: 1865415029
       Metalhead_43: -1509188339
       Metalhead_152: 1891923767
       Metalhead_124: -1073804233
       Metalhead_37: -1013565329
-      Metalhead_60: -219087142
       Metalhead_153: 114714245
-      Metalhead_11: -126516645
       Metalhead_57: -1648512142
       Metalhead_65: 1072891976
       Metalhead_97: -1532782634
-      Metalhead_118: -383172208
-      Metalhead_38: -1298219081
-      Metalhead_86: 830620882
       Metalhead_61: 54011290
-      Metalhead_102: -146461571
-      Metalhead_20: 770137749
       Metalhead_50: 1760317569
       Metalhead_40: 656842247
       Metalhead_56: 776965693
-      Metalhead_17: 1493505190
-      Metalhead_106: -1637399688
-      Metalhead_31: 701183528
-      Metalhead_5: -1442695145
+      Metalhead_126: -2142396057
       Metalhead_105: 318571651
       Metalhead_104: -1337510599
       Metalhead_101: 2146497621
-      Metalhead_123: 1281116797
-      Metalhead_35: 1133552923
       Metalhead_13: -835080822
-      Metalhead_2: 1037005059
-      Metalhead_121: -1538092407
-      Metalhead_62: 1418315322
+      Metalhead_167: 806800855
+      Metalhead_98: -454727156
       Metalhead_10: 836347449
-      Metalhead_51: 1626949232
       Metalhead_91: -1261866233
-      Metalhead_33: 2071977939
       Metalhead_85: 1195875137
       Metalhead_15: 1501158594
-      Metalhead_92: -198253281
-      Metalhead_148: -362712825
       Metalhead_28: -1404439917
-      Metalhead_94: 1873296716
-      Metalhead_30: -2090651230
-      Metalhead_74: -1022099983
-      Metalhead_25: 623844161
-      Metalhead_162: -690503675
       Metalhead_161: -1664365854
-      Metalhead_111: -957008862
       Metalhead_54: 1189537516
       Metalhead_12: -2136801985
-      Metalhead_167: 806800855
       Metalhead_9: 1547729714
       Metalhead_46: -2116071579
       Metalhead_22: 71263742
       Metalhead_79: -1352908651
+      Metalhead_119: -682950527
+      Metalhead_144: -1903271404
+      Metalhead_115: 1870211752
+      Metalhead_29: -1138859005
+      Metalhead_127: -859340277
+      Metalhead_1: 589357780
+      Metalhead_110: 901951312
+      Metalhead_131: 1630235053
+      Metalhead_117: 486572471
+      Metalhead_84: 1434420299
+      Metalhead_49: 1193883956
+      Metalhead_34: 814929732
+      Metalhead_141: 1683232371
+      Metalhead_120: 822312579
+      Metalhead_140: 1010828310
+      Metalhead_21: -215820481
+      Metalhead_24: 134676824
+      Metalhead_139: 437546748
+      Metalhead_47: 89612671
+      Metalhead_122: 2099644818
+      Metalhead_142: 216872198
+      Metalhead_166: 2099093553
+      Metalhead_157: -2026666837
+      Metalhead_48: -813631347
+      Metalhead_76: 575583509
+      Metalhead_174: -1030264579
+      Metalhead_58: 178779230
+      Metalhead_26: 550855192
+      Metalhead_143: 759549818
+      Metalhead_137: 160400059
+      Metalhead_75: 1490954106
+      Metalhead_32: -335377181
+      Metalhead_116: -1385680531
+      Metalhead_89: 347948261
+      Metalhead_169: 480143755
+      Metalhead_64: -697165497
+      Metalhead_53: 243536769
+      Metalhead_69: -1959080170
+      Metalhead_172: 571153114
+      Metalhead_68: 754842201
+      Metalhead_81: 1676679629
+      Metalhead_36: 1180411809
+      Metalhead_130: 590074416
+      Metalhead_112: -964542503
+      Metalhead_27: -175911081
+      Metalhead_4: -655834053
+      Metalhead_173: -1572203548
+      Metalhead_88: -575577937
+      Metalhead_103: -1387590762
+      Metalhead_133: 1906754093
+      Metalhead_100: 297347111
+      Metalhead_165: -993071656
+      Metalhead_6: -819226842
+      Metalhead_87: 1865415029
+      Metalhead_60: -219087142
+      Metalhead_11: -126516645
+      Metalhead_118: -383172208
+      Metalhead_38: -1298219081
+      Metalhead_86: 830620882
+      Metalhead_102: -146461571
+      Metalhead_20: 770137749
+      Metalhead_17: 1493505190
+      Metalhead_106: -1637399688
+      Metalhead_123: 1281116797
+      Metalhead_31: 701183528
+      Metalhead_5: -1442695145
+      Metalhead_160: 1846043823
+      Metalhead_35: 1133552923
+      Metalhead_62: 1418315322
+      Metalhead_2: 1037005059
+      Metalhead_121: -1538092407
+      Metalhead_51: 1626949232
+      Metalhead_92: -198253281
+      Metalhead_33: 2071977939
+      Metalhead_94: 1873296716
+      Metalhead_111: -957008862
+      Metalhead_148: -362712825
+      Metalhead_162: -690503675
+      Metalhead_168: -835545632
+      Metalhead_30: -2090651230
+      Metalhead_74: -1022099983
+      Metalhead_25: 623844161
+      Metalhead_72: -1415131115
+      Metalhead_155: -1442626801
       Metalhead_39: -2082633619
       Metalhead_42: -751552175
-      Metalhead_119: -682950527
       Metalhead_23: -689540303
-      Metalhead_144: -1903271404
       Metalhead_90: -1494654889
       Metalhead_95: -634572092
-      Metalhead_72: -1415131115
-      Metalhead_98: -454727156
-      Metalhead_29: -1138859005
       Metalhead_45: -906092151
       Metalhead_146: 1057818841
       Metalhead_3: -1299792096
       Metalhead_52: 1412097956
       Metalhead_147: -1238147483
-      Metalhead_127: -859340277
-      Metalhead_1: 589357780
+      Metalhead_150: 804570158
+      Metalhead_171: 938893857
       Metalhead_71: 1362982715
       Metalhead_83: 361290354
-      Metalhead_155: -1442626801
-      Metalhead_110: 901951312
       Metalhead_136: -1898871718
-      Metalhead_115: 1870211752
       Metalhead_78: -1130796438
-      Metalhead_168: -835545632
-      Metalhead_131: 1630235053
-      Metalhead_126: -2142396057
-      Metalhead_150: 804570158
-      Metalhead_117: 486572471
       Metalhead_18: 502127487
       Metalhead_132: -2072583677
-      Metalhead_84: 1434420299
-      Metalhead_49: 1193883956
-      Metalhead_34: 814929732
-      Metalhead_141: 1683232371
-      Metalhead_160: 1846043823
-      Metalhead_120: 822312579
       Metalhead_99: -2069907670
-      Metalhead_140: 1010828310
       Metalhead_113: -255407775
-      Metalhead_21: -215820481
-      Metalhead_24: 134676824
       Metalhead_66: -1946538197
       Metalhead_8: -1280801551
-      Metalhead_139: 437546748
       Metalhead_114: 1850806266
       Metalhead_14: 1651221522
-      Metalhead_47: 89612671
       Metalhead_70: -326164053
       Metalhead_134: -305806399
       Metalhead_77: 1909963464
-      Metalhead_166: 2099093553
-      Metalhead_142: 216872198
-      Metalhead_122: 2099644818
-      Metalhead_48: -813631347
-      Metalhead_157: -2026666837
-      Metalhead_76: 575583509
+      Metalhead_170: -2143946887
       Metalhead_44: -556916967
       Metalhead_67: -1780302070
-      Metalhead_58: 178779230
       Metalhead_0: 2023450334
-      Metalhead_26: 550855192
       Metalhead_96: 1253129807
       Metalhead_145: -854234990
       Metalhead_80: -1314446348
-      Metalhead_143: 759549818
       Metalhead_164: -260118434
-      Metalhead_137: 160400059
-      Metalhead_75: 1490954106
-      Metalhead_32: -335377181
-      Metalhead_41: 1308040493
-      Metalhead_116: -1385680531
-      Metalhead_89: 347948261
-      Metalhead_169: 480143755
       Metalhead_138: -577744817
+      Metalhead_41: 1308040493
       Metalhead_163: -345150536
       Metalhead_73: 107256290
       Metalhead_82: -145601689
       Metalhead_159: -1980874827
       Metalhead_129: 420849054
-      Metalhead_64: -697165497
       Metalhead_135: -2134640618
       Metalhead_16: -2004860000
-      Metalhead_53: 243536769
       Metalhead_59: 1165452154
-      Metalhead_69: -1959080170
-      Metalhead_68: 754842201
-      Metalhead_107: 490362951
       Metalhead_93: 1369823950
-      Metalhead_81: 1676679629
+      Metalhead_108: 949543699
+      Metalhead_107: 490362951
       Metalhead_19: -934667155
       Metalhead_7: 831964334
-      Metalhead_36: 1180411809
-      Metalhead_108: 949543699
       Metalhead_158: 1062295251
       Metalhead_125: -1902158714
-      Metalhead_130: 590074416
       Metalhead_154: 326197487
-      Metalhead_112: -964542503
-      Metalhead_27: -175911081
-      Metalhead_4: -655834053
       Metalhead_151: 821715697
   spritePackingTag: 
   pSDRemoveMatte: 0

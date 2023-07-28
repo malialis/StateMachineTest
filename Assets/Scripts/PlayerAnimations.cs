@@ -17,8 +17,16 @@ public class PlayerAnimations : MonoBehaviour
     private string currentAnimation;
     private bool isAttackPressed;
     private bool isAttacking;
+    private bool isShootingPressed;
+    private bool isShooting;
+
+    private Object bulletRef;
+    [SerializeField] private GameObject bullet;
+    [SerializeField] private Transform bulletSpawnPosition;
+    [SerializeField] private float bulletSpeed;
 
     [SerializeField] private float attackDelay = 0.3f;
+    [SerializeField] private float shootDelay = 0.4f;
     [SerializeField] private float walkSpeed = 5.0f;
 
     //animation states
@@ -27,7 +35,7 @@ public class PlayerAnimations : MonoBehaviour
     const string PLAYER_JUMP = "Player_jump";
     const string PLAYER_ATTACK = "Player_attack";
     const string PLAYER_AIR_ATTACK = "Player_air_atack";
-
+    const string PLAYER_SHOOT = "Player_shoot";
 
     // Start is called before the first frame update
     void Start()
@@ -53,6 +61,12 @@ public class PlayerAnimations : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.RightControl))
         {
             isAttackPressed = true;
+        }
+
+        //shoot is pressed
+        if (Input.GetKeyDown(KeyCode.L))
+        {
+            isShootingPressed = true;
         }
     }
 
@@ -133,11 +147,36 @@ public class PlayerAnimations : MonoBehaviour
                 Invoke("AttackComplete", attackDelay);
             }
         }
+
+        //check for shooting
+        if(isShootingPressed && isGrounded)
+        {
+            isShootingPressed = false;
+            if (!isShooting)
+            {
+                isShooting = true;
+                ChangeAnimationState(PLAYER_SHOOT);
+
+                //instantiate and shoot
+                GameObject b = Instantiate(bullet);
+                b.GetComponent<Rigidbody2D>().velocity = new Vector2(bulletSpeed, 0);
+
+                shootDelay = _anim.GetCurrentAnimatorStateInfo(0).length;
+                Invoke("ShootComplete", shootDelay);
+            }
+        }
     }
 
     private void AttackComplete()
     {
         isAttacking = false;
+        ChangeAnimationState(PLAYER_IDLE);
+    }
+
+    private void ShootComplete()
+    {
+        isShooting = false;
+        ChangeAnimationState(PLAYER_IDLE);
     }
 
     private void ChangeAnimationState(string newState)

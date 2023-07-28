@@ -4,15 +4,29 @@ using UnityEngine;
 
 public class PlayerCollisions : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        
+        ProcessCollision(collision.gameObject);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        
+        ProcessCollision(collision.gameObject);
     }
+
+    private void ProcessCollision(GameObject collider)
+    {
+        if (collider.CompareTag("Damage"))
+        {
+            DoDamageToPlayer();
+        }
+    }
+
+    private void DoDamageToPlayer()
+    {
+        Debug.Log("it is a hit!");
+    }
+
+
 }
